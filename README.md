@@ -2,4 +2,4 @@
 
 [Index](https://kolumnin.github.io/kolumnin.com)
 
-#[organization](https://github.com/kolumnin-com)
+[organization](https://github.com/kolumnin-com)
