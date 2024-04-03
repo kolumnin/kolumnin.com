@@ -7,4 +7,5 @@ for navigation to the
 You can open the alias at [www.kolumnin.com](https://kolumnin.github.io/www.kolumnin.com/).
 
 The site can be worked on through the [google admin](https://admin.google.com)
+
 Last update: 2024-04-03-06:38@kolumnin
